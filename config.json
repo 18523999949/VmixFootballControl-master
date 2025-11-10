@@ -1,0 +1,20 @@
+{
+  "host": "127.0.0.1",
+  "port": 8099,
+  "red_card_input": "2",
+  "red_card_layer": "1",
+  "red_card_delay": 5.0,
+  "yellow_card_input": "4",
+  "yellow_card_layer": "1",
+  "yellow_card_delay": 5.0,
+  "sub_input": "3",
+  "sub_layer": "1",
+  "sub_delay": 5.0,
+  "goal_input": "5",
+  "goal_layer": "1",
+  "goal_delay": 5.0,
+  "team_name_home": "石柱红",
+  "team_name_away": "两江深蓝汽车",
+  "team_home_color": "#10EFDE",
+  "team_away_color": "#D93131"
+}

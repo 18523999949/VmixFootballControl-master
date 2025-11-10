@@ -1,0 +1,22 @@
+# Vmix足球比赛控制面板依赖包
+# 
+# 使用方式：
+#   pip install -r requirements.txt
+#
+# 编译EXE需要：
+#   pip install pyinstaller
+
+# 核心依赖（Python标准库，无需安装）
+# - tkinter (GUI界面)
+# - socket (网络连接)
+# - threading (多线程)
+# - json (配置文件)
+# - datetime (时间处理)
+# - enum (枚举)
+# - time (时间)
+# - os (文件操作)
+# - re (正则表达式)
+
+# 编译工具
+pyinstaller>=5.0.0
+
